@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### 2024
-- **Database Management Systems, Teaching Assistant**.\
-Second-year Engineering in Computer Science, Ensta Paris.\
-Database design, Entity-Relationship model, Relational Model, SQL, Oracle.
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
