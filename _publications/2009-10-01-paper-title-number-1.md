@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "TELESAFE: Detecting Private/Work Boundary Crossings in Energy Consumption Trails in Telework"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-08-29-telesafe
+excerpt: ''
+date: 2025-08-29
+venue: 'VLDB'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://dl.acm.org/doi/10.14778/3725688.3725690'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Haoying Zhang, Mariem Brahem, Nicolas Anciaux, Benjamin Nguyen, and Jose Maria de Fuentes. 2025. TELESAFE: Detecting Private/Work Boundary Crossings in Energy Consumption Trails in Telework. Proc. VLDB Endow. 18, 6 (February 2025), 1565–1578. https://doi.org/10.14778/3725688.3725690'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Teleworking has become a social gain following the COVID-19 lock-downs. In many professions, remote work is becoming a common practice, either at the employee's home or in a shared space nearby. However, this creates an implicit private/work-life tension as private activities may be carried out during work time and vice versa. Detecting boundary crossings is of outmost relevance - they serve as evidence of the workers' breaks and right to rest. However, this must be achieved without excessive surveillance. Existing activity recognition techniques either do not address the border crossing problem or require a priori training.
+To address this issue, this article proposes TELESAFE, a boundary crossing detector solution for teleworking. TELESAFE does not require any training nor instrumentation of the teleworker home and can be run locally in resource-constrained devices. To illustrate its suitability, it is applied on electric consumption trails so as to enable self and third-party assessment (e.g., work inspectors) on working conditions. Results on real-world datasets show a Fscore over 90% for identifying private activities involving one or more devices with usage patterns of varying lengths. Interestingly, TELESAFE outperforms Machine and Deep-Learning approaches in the most complex settings, without the burden of training.
