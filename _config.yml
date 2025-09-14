@@ -23,7 +23,7 @@ repository               : "HaoyingZhang/haoyingzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sheep.png"
   name             : "Haoying Zhang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Inria Saclay Research focus: Privacy-Enhancing Technologies & Time Series."
