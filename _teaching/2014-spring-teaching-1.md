@@ -4,7 +4,7 @@ collection: teaching
 type: "Master (Engineering) course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "ENSTA Paris, Computer Science"
-date: 2023-09 - Present
+date: September 2023 - Present
 location: "Palaiseau, France"
 ---
 
