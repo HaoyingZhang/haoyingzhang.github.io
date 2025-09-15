@@ -8,10 +8,7 @@ date: September 2023 - Present
 location: "Palaiseau, France"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
+* Taught Oracle Database to second-year engineering students
 
-Taught Oracle Database to second-year engineering students
-======
+* Prepared materials (VMs, servers) and support students with exercises and individual problem-solving
 
-Prepared materials (VMs, servers) and support students with exercises and individual problem-solving
-======
