@@ -8,6 +8,8 @@ redirect_from:
 ---
 I'm a PhD student at Inria Saclay and INSA CVL, in the team PETSCRAFT. My research topic is Privacy-Enhancing Technologies with Time Series data. I did my master (engineering degree) at INSA de Rennes, majored in Computer Science (with double degree in master of research). I had my baccalaureate in China, Beijing.
 
+[My GitLab Inria](https://gitlab.inria.fr/users/haoying.zhang/projects)
+
 News
 ------
 * [Aug-25] Our paper "Privacy Attacks on Matrix Profile via Reconstruction Techniques" has been accepted at [PETS 2026](https://petsymposium.org/cfp26.php).
