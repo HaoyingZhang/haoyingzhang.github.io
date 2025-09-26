@@ -12,6 +12,7 @@ I'm a PhD student at Inria Saclay and INSA CVL, in the team PETSCRAFT. My resear
 
 News
 ------
+* [Sep-25] Our demo "TELESAFE: Monitoring Energy Consumption for Work–Life Boundaries in Telework" has been accepted at [IEEE ICDM 2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html).
 * [Aug-25] Our paper "Privacy Attacks on Matrix Profile via Reconstruction Techniques" has been accepted at [PETS 2026](https://petsymposium.org/cfp26.php).
 
 * [Aug-25] Our paper "Demo: Exploring Utility and Attackability Trade-offs in Local Differential Privacy" has been accepted at [CCS 2025](https://www.sigsac.org/ccs/CCS2025/) (Only two demo papers have been accepted this year).
