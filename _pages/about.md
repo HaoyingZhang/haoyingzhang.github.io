@@ -23,4 +23,6 @@ News
 
 * [Jun-25] I will present the demonstration of TELESAFE, a privacy-enhancing tool to self-monitor teleworking days at [APVP workshop 2025](https://apvp2025.sciencesconf.org/)
 
+* [Dec-24] Our paper "TELESAFE: Detecting Private/Work Boundary Crossings in Energy Consumption Trails in Telework" has been accepted at [VLDB 2025](https://vldb.org/2025/).
+
 * [Oct-24] I will present two works: "TELESAFE: Detecting Private/Work Boundary Crossings in Energy Consumption Trails in Telework" and "Leveraging synthetic graph generation for privacy-preserving geo-distributed graph processing" (from my internship) at [BDA 2024](https://bda2024.sciencesconf.org/) in Orléans 
