@@ -11,7 +11,7 @@ I'm a PhD student at Inria Saclay and INSA CVL, in the team PETSCRAFT. My resear
 [My GitLab Inria](https://gitlab.inria.fr/users/haoying.zhang/projects)
 
 My current interests of research are:
-* Zero Knowledge proof for Matrix Profile, a transformation of time series into distance domain
+* Zero Knowledge Proof for Matrix Profile, a transformation of time series into distance domain
 * Synthetic time series generation by preserving utility with Matrix Profile 
 
 News
