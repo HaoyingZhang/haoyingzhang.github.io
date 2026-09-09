@@ -13,10 +13,14 @@ I have obtained my PhD degree titled "Privacy-Preserving Analysis and Sharing of
 
 News
 ------
-* [Sep-26] I defended my thesis titled "Privacy-Preserving Analysis and Sharing of Time Series Data" at Inria Saclay. I thank the members of the jury:
+* [Sep-26] I defended my thesis titled "Privacy-Preserving Analysis and Sharing of Time Series Data" at Inria Saclay. Thank you to the members of the jury:
+
     Ray Indrakshi, Professor, Colorado State University (President)
+  
     Amer-Yahia Sihem, Research Director, CNRS
+  
     Feng Ling, Professor, Tsinghua University
+  
     Akbarinia Reza, Research Director, Inria
   
 * [Jul-26] Honored to persent my paper "Privacy attacks on Matrix Profile via Reconstruction Techniques" at PETS 2026 in Calgary, Canada. 
