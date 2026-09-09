@@ -6,18 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD student at Inria Saclay and INSA CVL, in the team PETSCRAFT. My research topic is Privacy-Enhancing Technologies with Time Series data. I did my master (engineering degree) at INSA de Rennes, majored in Computer Science (with double degree in master of research). I had my baccalaureate in China, Beijing.
+I have obtained my PhD degree titled "Privacy-Preserving Analysis and Sharing of Time Series Data" at Inria Saclay and INSA CVL, in the team [PETSCRAFT](https://www.inria.fr/en/petscraft). I obtained my engineering degree (equivalent to a master's degree) from INSA de Rennes, majoring in Computer Science, along with a dual degree in the Master SIF (a research master). I obtained my baccalaureate and was admitted to Beijing University of Technology, in Beijing, China.
 
 [My GitLab Inria](https://gitlab.inria.fr/users/haoying.zhang/projects)
 
-My current interests of research are:
-  
-* Time series foundation models
-
-* Verifiable anomaly/similarity detection in Time Series via Matrix Profile
 
 News
 ------
+* [Sep-26] I defended my thesis titled "Privacy-Preserving Analysis and Sharing of Time Series Data" at Inria Saclay. I thank the members of the jury:
+    Ray Indrakshi, Professor, Colorado State University (President)
+    Amer-Yahia Sihem, Research Director, CNRS
+    Feng Ling, Professor, Tsinghua University
+    Akbarinia Reza, Research Director, Inria
+  
 * [Mar-26] I am going to do a research visit with Professor Sébastien Gambs at UQÀM in Montreal, Canada.
 
 * [Mar-26] Honored to present my works "Privacy attacks on Matrix Profile" and "Verifiable anomaly/similarity detection in time series using Matrix Profile" at Privatics seminar (aka Privaski).
