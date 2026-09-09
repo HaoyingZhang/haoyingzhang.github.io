@@ -19,9 +19,11 @@ News
     Feng Ling, Professor, Tsinghua University
     Akbarinia Reza, Research Director, Inria
   
+* [Jul-26] Honored to persent my paper "Privacy attacks on Matrix Profile via Reconstruction Techniques" at PETS 2026 in Calgary, Canada. 
+  
 * [Mar-26] I am going to do a research visit with Professor Sébastien Gambs at UQÀM in Montreal, Canada.
 
-* [Mar-26] Honored to present my works "Privacy attacks on Matrix Profile" and "Verifiable anomaly/similarity detection in time series using Matrix Profile" at Privatics seminar (aka Privaski).
+* [Mar-26] Honored to present my work "Privacy attacks on Matrix Profile" and "Verifiable anomaly/similarity detection in time series using Matrix Profile" at Privatics seminar (aka Privaski).
 
 * [Nov-25] Honored to attend the 2025 IEEE International Conference on Data Mining (ICDM) in Washington DC, where I demonstrated our work, TELESAFE. I would like to thank everyone who visited the demo booth and provided valuable feedback.
 
